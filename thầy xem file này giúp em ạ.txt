@@ -1,0 +1,1 @@
+Em lỡ xài lệnh force nên bị mất hết lịch sữ, do git em bị lỗi không up dược nên em xóa file git trên bài, nên em copy lệnh trên internet không để ý ạ nên bị mất hết lịch sữ , thầy tạo điều kiện giúp em dược không ạ, em cam ơn thầy
